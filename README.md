@@ -1,4 +1,5 @@
-Smart Entry System
+Smart Entry System: 
+
 A full-stack web application for event management, offering online registration, ticketing, and a QR-based ticket validation system.
 
 <br>
